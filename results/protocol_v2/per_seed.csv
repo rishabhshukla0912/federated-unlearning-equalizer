@@ -1,0 +1,16 @@
+tag,seed,task_gate,canary_gate_val,all_asr_val,guard_stop,violation_step,returned_step,pipeline_min
+confirm_canary_seed42,42,True,False,85.75295275590551,guard,60,40,320.5
+confirm_canary_seed43,43,True,True,92.8125,guard,60,40,239.7
+confirm_canary_seed44,44,True,True,92.28100393700788,guard,80,60,382.0
+confirm_canary_seed45,45,True,True,92.63779527559055,guard,80,60,421.0
+confirm_canary_seed46,46,True,False,86.94389763779527,guard,60,40,344.9
+confirm_iq_seed42,42,True,True,nan,guard,40,20,307.4
+confirm_iq_seed43,43,True,True,nan,guard,40,20,454.6
+confirm_iq_seed44,44,True,True,nan,guard,40,20,481.9
+confirm_iq_seed45,45,True,True,nan,guard,40,20,503.7
+confirm_iq_seed46,46,True,True,nan,guard,40,20,524.4
+confirm_iq_seed47,47,True,True,nan,guard,40,20,481.8
+confirm_iq_seed48,48,True,True,nan,guard,40,20,431.2
+confirm_iq_seed49,49,True,True,nan,guard,40,20,479.1
+confirm_iq_seed50,50,True,True,nan,guard,40,20,527.3
+confirm_iq_seed51,51,True,True,nan,guard,40,20,221.9
