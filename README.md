@@ -68,4 +68,4 @@ Citation details will be added once the paper is accepted.
 
 ## License
 
-No license is granted at this time. All rights reserved by the authors. Please contact the authors before reuse.
+Code, data and results in this repository are released under the Apache License 2.0. See [LICENSE](LICENSE).
